@@ -1,0 +1,571 @@
+{
+  "products": [
+    {
+      "id": "prod-gg-1",
+      "name": "Kakinada Red Rose Plant",
+      "botanicalName": "Rosa indica",
+      "category": "Flowering Plants",
+      "plantType": "Flowering",
+      "description": "Fragrant and vibrant deep-red flowering rose bush acclimated to coastal Andhra Pradesh climate. Produces abundant blooms throughout the season.",
+      "mainImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Medium",
+      "height": "2 Feet",
+      "potSize": "8 Inches Nursery Pot",
+      "originalPrice": 300,
+      "price": 270,
+      "discount": 10,
+      "finalPrice": 270,
+      "stock": 20,
+      "availability": "In Stock",
+      "sunlight": "Direct Sunlight (5-6 hours)",
+      "waterRequirement": "Daily during morning or evening",
+      "careInstructions": "Prune spent blooms to encourage fresh flowering. Feed with organic bone meal or vermicompost every 3 weeks.",
+      "rating": 4.9,
+      "reviewCount": 42,
+      "badge": "Bestseller",
+      "isFeatured": true,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Flowering", "Fragrant", "Nursery Special"],
+      "sizes": [
+        { "size": "Small", "height": "1.2 Feet", "pot": "6 Inch Pot", "price": 200, "originalPrice": 230, "discount": 13, "finalPrice": 200, "stock": 15 },
+        { "size": "Medium", "height": "2 Feet", "pot": "8 Inch Pot", "price": 270, "originalPrice": 300, "discount": 10, "finalPrice": 270, "stock": 20 },
+        { "size": "Large (Bush)", "height": "3 Feet", "pot": "10 Inch Pot", "price": 380, "originalPrice": 450, "discount": 15, "finalPrice": 380, "stock": 8 }
+      ]
+    },
+    {
+      "id": "prod-gg-2",
+      "name": "Money Plant (Golden Pothos)",
+      "botanicalName": "Epipremnum aureum",
+      "category": "Indoor Plants",
+      "plantType": "Indoor",
+      "description": "Lush trailing indoor plant known to bring positive energy and purify indoor toxins. Flourishes effortlessly in low to medium light.",
+      "mainImage": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1597055181300-e3633a917c9c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Medium",
+      "height": "1.5 Feet with Moss Pole",
+      "potSize": "6 Inch Ceramic Style Pot",
+      "originalPrice": 250,
+      "price": 200,
+      "discount": 20,
+      "finalPrice": 200,
+      "stock": 35,
+      "availability": "In Stock",
+      "sunlight": "Low to Medium Indirect Sunlight",
+      "waterRequirement": "1-2 times a week when soil is dry",
+      "careInstructions": "Mist the moss pole weekly. Keep away from harsh direct midday heat.",
+      "rating": 4.9,
+      "reviewCount": 88,
+      "badge": "Air Purifier",
+      "isFeatured": true,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Indoor", "Air Purifying", "Easy Care"],
+      "sizes": [
+        { "size": "Small", "height": "10 Inches", "pot": "4.5 Inch Pot", "price": 149, "originalPrice": 180, "discount": 17, "finalPrice": 149, "stock": 25 },
+        { "size": "Medium", "height": "1.5 Feet", "pot": "6 Inch Pot", "price": 200, "originalPrice": 250, "discount": 20, "finalPrice": 200, "stock": 35 },
+        { "size": "Large Moss Pole", "height": "3 Feet", "pot": "8 Inch Pot", "price": 420, "originalPrice": 500, "discount": 16, "finalPrice": 420, "stock": 10 }
+      ]
+    },
+    {
+      "id": "prod-gg-3",
+      "name": "Snake Plant (Sansevieria Laurentii)",
+      "botanicalName": "Sansevieria trifasciata",
+      "category": "Air-Purifying Plants",
+      "plantType": "Air-Purifying",
+      "description": "Architectural upright succulent with yellow variegated borders. Highly resilient oxygen powerhouse that works day and night.",
+      "mainImage": "https://images.unsplash.com/photo-1599598425947-5202edd564c9?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1599598425947-5202edd564c9?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Medium",
+      "height": "2 Feet",
+      "potSize": "7 Inch Pot",
+      "originalPrice": 350,
+      "price": 298,
+      "discount": 15,
+      "finalPrice": 298,
+      "stock": 25,
+      "availability": "In Stock",
+      "sunlight": "Low to Bright Indirect Sunlight",
+      "waterRequirement": "Once every 10-14 days",
+      "careInstructions": "Drought tolerant. Avoid overwatering; ensure pot has good drainage holes.",
+      "rating": 4.8,
+      "reviewCount": 54,
+      "badge": "Top Rated",
+      "isFeatured": true,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Air-Purifying", "Bedroom Plant", "Low Maintenance"],
+      "sizes": [
+        { "size": "Small", "height": "1 Foot", "pot": "5 Inch Pot", "price": 199, "originalPrice": 240, "discount": 17, "finalPrice": 199, "stock": 18 },
+        { "size": "Medium", "height": "2 Feet", "pot": "7 Inch Pot", "price": 298, "originalPrice": 350, "discount": 15, "finalPrice": 298, "stock": 25 },
+        { "size": "Large", "height": "3 Feet", "pot": "9 Inch Pot", "price": 490, "originalPrice": 580, "discount": 15, "finalPrice": 490, "stock": 12 }
+      ]
+    },
+    {
+      "id": "prod-gg-4",
+      "name": "Banganapalli Mango Grafted Sapling",
+      "botanicalName": "Mangifera indica 'Banganapalli'",
+      "category": "Fruit Plants",
+      "plantType": "Fruit",
+      "description": "Authentic King of Mangoes grafted plant from nursery stock. High yield, sweet fiberless golden pulp.",
+      "mainImage": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Large",
+      "height": "4 Feet",
+      "potSize": "12 Inch Nursery Grow Bag",
+      "originalPrice": 450,
+      "price": 405,
+      "discount": 10,
+      "finalPrice": 405,
+      "stock": 16,
+      "availability": "In Stock",
+      "sunlight": "Full All-Day Sunlight",
+      "waterRequirement": "Moderate regular watering",
+      "careInstructions": "Plant in rich loamy soil. Apply neem cake and cow dung manure every 2 months.",
+      "rating": 5.0,
+      "reviewCount": 31,
+      "badge": "Grafted Variety",
+      "isFeatured": true,
+      "isPopular": false,
+      "isNewArrival": true,
+      "tags": ["Fruit", "Outdoor", "Grafted"],
+      "sizes": [
+        { "size": "Medium (2.5 Ft)", "height": "2.5 Feet", "pot": "10 Inch Bag", "price": 320, "originalPrice": 360, "discount": 11, "finalPrice": 320, "stock": 10 },
+        { "size": "Large (4 Ft)", "height": "4 Feet", "pot": "12 Inch Bag", "price": 405, "originalPrice": 450, "discount": 10, "finalPrice": 405, "stock": 16 }
+      ]
+    },
+    {
+      "id": "prod-gg-5",
+      "name": "Areca Palm (Living Air Cooler)",
+      "botanicalName": "Dypsis lutescens",
+      "category": "Outdoor Plants",
+      "plantType": "Outdoor",
+      "description": "Graceful feathery palm that creates a tropical oasis in living rooms, balconies, and verandas.",
+      "mainImage": "https://images.unsplash.com/photo-1545241047-6083a3684587?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1545241047-6083a3684587?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Large",
+      "height": "3.5 Feet",
+      "potSize": "10 Inch Pot",
+      "originalPrice": 650,
+      "price": 550,
+      "discount": 15,
+      "finalPrice": 550,
+      "stock": 18,
+      "availability": "In Stock",
+      "sunlight": "Filtered Bright Sunlight / Semi-shade",
+      "waterRequirement": "2-3 times per week",
+      "careInstructions": "Keep soil moist but not soggy. Wipe fronds with soft cloth to keep dust away.",
+      "rating": 4.8,
+      "reviewCount": 29,
+      "badge": "Tropical",
+      "isFeatured": true,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Outdoor", "Indoor", "Palm"],
+      "sizes": [
+        { "size": "Medium", "height": "2.5 Feet", "pot": "8 Inch Pot", "price": 390, "originalPrice": 450, "discount": 13, "finalPrice": 390, "stock": 12 },
+        { "size": "Large", "height": "3.5 Feet", "pot": "10 Inch Pot", "price": 550, "originalPrice": 650, "discount": 15, "finalPrice": 550, "stock": 18 }
+      ]
+    },
+    {
+      "id": "prod-gg-6",
+      "name": "Allahabad Safeda Guava (Grafted)",
+      "botanicalName": "Psidium guajava",
+      "category": "Fruit Plants",
+      "plantType": "Fruit",
+      "description": "Famous high-yielding dwarf guava variety. Produces sweet, crunchy fruit with soft seeds within 8-12 months.",
+      "mainImage": "https://images.unsplash.com/photo-1536511135899-738c82664b36?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1536511135899-738c82664b36?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Medium",
+      "height": "3 Feet",
+      "potSize": "10 Inch Grow Bag",
+      "originalPrice": 350,
+      "price": 315,
+      "discount": 10,
+      "finalPrice": 315,
+      "stock": 22,
+      "availability": "In Stock",
+      "sunlight": "Full Sunlight (6+ hours)",
+      "waterRequirement": "Regular watering every alternate day",
+      "careInstructions": "Apply micronutrient spray during flowering. Prune top shoot for bushy growth.",
+      "rating": 4.7,
+      "reviewCount": 18,
+      "badge": "Early Fruiting",
+      "isFeatured": false,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Fruit", "Home Garden", "Grafted"],
+      "sizes": [
+        { "size": "Medium", "height": "3 Feet", "pot": "10 Inch Bag", "price": 315, "originalPrice": 350, "discount": 10, "finalPrice": 315, "stock": 22 }
+      ]
+    },
+    {
+      "id": "prod-gg-7",
+      "name": "Madurai Malli / Mogra Jasmine",
+      "botanicalName": "Jasminum sambac",
+      "category": "Flowering Plants",
+      "plantType": "Flowering",
+      "description": "Heavenly fragrant white blooms adored across Andhra Pradesh for puja and garlands. Blooms profusely from summer to monsoon.",
+      "mainImage": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Medium",
+      "height": "1.5 Feet",
+      "potSize": "7 Inch Pot",
+      "originalPrice": 220,
+      "price": 198,
+      "discount": 10,
+      "finalPrice": 198,
+      "stock": 30,
+      "availability": "In Stock",
+      "sunlight": "Direct Sunlight (4-5 hours)",
+      "waterRequirement": "Daily watering during hot months",
+      "careInstructions": "Prune lightly after each flowering flush. Feed with mustard cake solution for heavy buds.",
+      "rating": 4.9,
+      "reviewCount": 65,
+      "badge": "Devotional / Fragrant",
+      "isFeatured": true,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Flowering", "Fragrant", "Puja Plant"],
+      "sizes": [
+        { "size": "Small", "height": "1 Foot", "pot": "5 Inch Pot", "price": 150, "originalPrice": 175, "discount": 14, "finalPrice": 150, "stock": 20 },
+        { "size": "Medium", "height": "1.5 Feet", "pot": "7 Inch Pot", "price": 198, "originalPrice": 220, "discount": 10, "finalPrice": 198, "stock": 30 }
+      ]
+    },
+    {
+      "id": "prod-gg-8",
+      "name": "Ficus Ginseng Bonsai",
+      "botanicalName": "Ficus microcarpa",
+      "category": "Indoor Plants",
+      "plantType": "Indoor",
+      "description": "Sculptural miniature tree with thick aerial root trunk and glossy deep green foliage in an authentic ceramic tray.",
+      "mainImage": "https://images.unsplash.com/photo-1512428813834-c702c7702b78?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1512428813834-c702c7702b78?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Small",
+      "height": "1 Foot",
+      "potSize": "8 Inch Ceramic Tray",
+      "originalPrice": 850,
+      "price": 680,
+      "discount": 20,
+      "finalPrice": 680,
+      "stock": 12,
+      "availability": "In Stock",
+      "sunlight": "Bright Indirect Window Light",
+      "waterRequirement": "Check soil every 3-4 days; water when dry",
+      "careInstructions": "Rotate pot weekly for uniform leaf development. Keep away from air conditioner draughts.",
+      "rating": 5.0,
+      "reviewCount": 16,
+      "badge": "Premium Art",
+      "isFeatured": true,
+      "isPopular": false,
+      "isNewArrival": true,
+      "tags": ["Indoor", "Bonsai", "Luxury"],
+      "sizes": [
+        { "size": "Small", "height": "1 Foot", "pot": "8 Inch Tray", "price": 680, "originalPrice": 850, "discount": 20, "finalPrice": 680, "stock": 12 }
+      ]
+    },
+    {
+      "id": "prod-gg-9",
+      "name": "Krishna Tulsi (Holy Basil)",
+      "botanicalName": "Ocimum sanctum",
+      "category": "Outdoor Plants",
+      "plantType": "Outdoor",
+      "description": "Sacred dark-purple leaved Holy Basil prized for medicinal immunity boosting properties and spiritual significance.",
+      "mainImage": "https://images.unsplash.com/photo-1628178887629-f3826bed5f42?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1628178887629-f3826bed5f42?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "Medium",
+      "height": "1.5 Feet",
+      "potSize": "6 Inch Traditional Pot",
+      "originalPrice": 120,
+      "price": 108,
+      "discount": 10,
+      "finalPrice": 108,
+      "stock": 40,
+      "availability": "In Stock",
+      "sunlight": "Direct Morning Sunlight",
+      "waterRequirement": "Water daily in modest quantity",
+      "careInstructions": "Pinch off flower seeds (Manjari) to maintain bushy and healthy foliage.",
+      "rating": 4.9,
+      "reviewCount": 94,
+      "badge": "Sacred & Herb",
+      "isFeatured": false,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Medicinal", "Outdoor", "Herb"],
+      "sizes": [
+        { "size": "Medium", "height": "1.5 Feet", "pot": "6 Inch Pot", "price": 108, "originalPrice": 120, "discount": 10, "finalPrice": 108, "stock": 40 }
+      ]
+    },
+    {
+      "id": "prod-gg-10",
+      "name": "Pure Organic Vermicompost (5 Kg Pack)",
+      "botanicalName": "Earthworm Castings Organic Fertilizer",
+      "category": "Gardening Products",
+      "plantType": "Gardening Products",
+      "description": "100% pure organic earthworm castings packed with nitrogen, phosphorous, and beneficial microbes for robust root growth and flowering.",
+      "mainImage": "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&w=800&q=80"
+      ],
+      "size": "5 Kg Bag",
+      "height": "Bag Pack",
+      "potSize": "N/A",
+      "originalPrice": 250,
+      "price": 200,
+      "discount": 20,
+      "finalPrice": 200,
+      "stock": 50,
+      "availability": "In Stock",
+      "sunlight": "Store in cool dry place",
+      "waterRequirement": "Mix with soil and water lightly",
+      "careInstructions": "Add 2-3 handfuls around plant root zone once every 20-30 days.",
+      "rating": 4.9,
+      "reviewCount": 73,
+      "badge": "100% Organic",
+      "isFeatured": false,
+      "isPopular": true,
+      "isNewArrival": false,
+      "tags": ["Gardening Products", "Fertilizer", "Organic"],
+      "sizes": [
+        { "size": "5 Kg Bag", "height": "Pack", "pot": "N/A", "price": 200, "originalPrice": 250, "discount": 20, "finalPrice": 200, "stock": 50 }
+      ]
+    }
+  ],
+  "deliveryAreas": [
+    {
+      "id": "tier-1",
+      "name": "Kakinada City",
+      "charge": 50,
+      "description": "Main City, Bhanugudi, Jagannaickpur, Main Road, Collectorate, Surya Rao Peta",
+      "estimatedDelivery": "Same Day / Next Morning",
+      "active": true
+    },
+    {
+      "id": "tier-2",
+      "name": "Nearby Area",
+      "charge": 80,
+      "description": "Indra Palem, Cheediga, Ramanayyapeta, Sarpavaram, Madhavapatnam, Atchampeta",
+      "estimatedDelivery": "Next Day Delivery",
+      "active": true
+    },
+    {
+      "id": "tier-3",
+      "name": "Other Area",
+      "charge": 120,
+      "description": "Samalkota, Pithapuram, Karapa, Peddapuram outskirts",
+      "estimatedDelivery": "1 - 2 Business Days",
+      "active": true
+    }
+  ],
+  "businessInfo": {
+    "businessName": "Ganapathi Gardens – Plant Nursery",
+    "businessType": "Plant Nursery",
+    "tagline": "Bring Nature Home with Ganapathi Gardens",
+    "subtitle": "Healthy plants, beautiful gardens and everything you need to grow a greener home.",
+    "address": "Cheediga, Kakinada, Andhra Pradesh, India",
+    "contactNumber": "090008 35323",
+    "email": "ganapathigardens@gmail.com",
+    "whatsapp": "090008 35323",
+    "website": "ganapathigardens.com",
+    "openingHours": "Monday - Sunday: 7:00 AM - 7:30 PM",
+    "mapLink": "https://maps.app.goo.gl/apLx3Us3cWC1PKz87",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3815.7725916327376!2d82.222384!3d16.985447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a382875c754b2a7%3A0xb30f81d1e4c9fce2!2sGanapathi%20Gardens!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+    "description": "Welcome to Ganapathi Gardens – Plant Nursery in Cheediga, Kakinada. We cultivate healthy flowering roses, indoor air-purifying foliage, grafted fruit saplings, exotic bonsais, and premium organic garden supplies."
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Flowering Plants",
+      "description": "Fragrant roses, jasmines, hibiscus, and seasonal blossoms",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 14
+    },
+    {
+      "id": "cat-2",
+      "name": "Indoor Plants",
+      "description": "Low light varieties, golden pothos, bonsais, and aglaonemas",
+      "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 18
+    },
+    {
+      "id": "cat-3",
+      "name": "Outdoor Plants",
+      "description": "Hardy palms, crotons, hedges, and garden ornamentals",
+      "image": "https://images.unsplash.com/photo-1545241047-6083a3684587?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 12
+    },
+    {
+      "id": "cat-4",
+      "name": "Fruit Plants",
+      "description": "Grafted mangoes, guavas, pomegranates, and lemons",
+      "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 10
+    },
+    {
+      "id": "cat-5",
+      "name": "Air-Purifying Plants",
+      "description": "NASA-certified oxygen boosters for clean home air",
+      "image": "https://images.unsplash.com/photo-1599598425947-5202edd564c9?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 8
+    },
+    {
+      "id": "cat-6",
+      "name": "Gardening Products",
+      "description": "Vermicompost, pots, soil mix, and nursery tools",
+      "image": "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&w=600&q=80",
+      "itemCount": 15
+    }
+  ],
+  "offers": [
+    {
+      "id": "off-1",
+      "title": "Monsoon Bloom Fest - 20% OFF",
+      "code": "MONSOON20",
+      "discountPercent": 20,
+      "maxDiscount": 300,
+      "minOrderValue": 499,
+      "description": "Special discount on all flowering shrubs & garden plants for Ganapathi Gardens customers.",
+      "badgeText": "HOT OFFER",
+      "active": true
+    },
+    {
+      "id": "off-2",
+      "title": "Green Home Welcome Deal",
+      "code": "GREENHOME",
+      "discountPercent": 10,
+      "maxDiscount": 150,
+      "minOrderValue": 299,
+      "description": "Flat 10% instant savings on your first online nursery order.",
+      "badgeText": "WELCOME",
+      "active": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1",
+      "orderNumber": "GG1001",
+      "customerId": "cust-demo-1",
+      "customerName": "Suresh Varma",
+      "phone": "9848012345",
+      "email": "suresh.varma@example.com",
+      "address": "D.No 4-12, Near Temple, Main Road",
+      "area": "Kakinada City",
+      "city": "Kakinada",
+      "state": "Andhra Pradesh",
+      "pincode": "533001",
+      "products": [
+        {
+          "productId": "prod-gg-1",
+          "name": "Kakinada Red Rose Plant",
+          "size": "Medium",
+          "height": "2 Feet",
+          "potSize": "8 Inches Nursery Pot",
+          "price": 300,
+          "originalPrice": 300,
+          "discount": 10,
+          "finalPrice": 270,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 600,
+      "discount": 60,
+      "transportCharge": 50,
+      "totalAmount": 590,
+      "status": "Confirmed",
+      "paymentMethod": "Cash on Delivery",
+      "createdAt": "2026-09-18T10:30:00.000Z",
+      "timeline": [
+        { "status": "Order Placed", "completed": true, "note": "Order submitted by customer" },
+        { "status": "Confirmed", "completed": true, "note": "Nursery confirmed plant stock" }
+      ]
+    },
+    {
+      "id": "ord-2",
+      "orderNumber": "GG1002",
+      "customerId": "cust-demo-2",
+      "customerName": "Lakshmi Narayana",
+      "phone": "9963098765",
+      "email": "lakshmi.n@example.com",
+      "address": "Plot 42, Green Avenue, Ramanayyapeta",
+      "area": "Nearby Area",
+      "city": "Kakinada",
+      "state": "Andhra Pradesh",
+      "pincode": "533005",
+      "products": [
+        {
+          "productId": "prod-gg-2",
+          "name": "Money Plant (Golden Pothos)",
+          "size": "Medium",
+          "height": "1.5 Feet",
+          "potSize": "6 Inch Pot",
+          "price": 250,
+          "originalPrice": 250,
+          "discount": 20,
+          "finalPrice": 200,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "productId": "prod-gg-3",
+          "name": "Snake Plant (Sansevieria)",
+          "size": "Medium",
+          "height": "2 Feet",
+          "potSize": "7 Inch Pot",
+          "price": 350,
+          "originalPrice": 350,
+          "discount": 15,
+          "finalPrice": 298,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1599598425947-5202edd564c9?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "subtotal": 600,
+      "discount": 102,
+      "transportCharge": 80,
+      "totalAmount": 578,
+      "status": "Processing",
+      "paymentMethod": "UPI on Delivery",
+      "createdAt": "2026-09-18T14:15:00.000Z",
+      "timeline": [
+        { "status": "Order Placed", "completed": true, "note": "Received order" },
+        { "status": "Confirmed", "completed": true, "note": "Order verified" },
+        { "status": "Processing", "completed": true, "note": "Careful pruning and packaging in nursery" }
+      ]
+    }
+  ],
+  "contactMessages": [
+    {
+      "id": "msg-1",
+      "name": "Ravi Kumar",
+      "email": "ravi.kakinada@example.com",
+      "mobile": "9848123456",
+      "subject": "Bulk Fruit Trees Inquiry",
+      "message": "Hello Ganapathi Gardens, do you supply 50+ Banganapalli and Neelam mango saplings for agricultural land in Karapa?",
+      "status": "Unread",
+      "createdAt": "2026-09-18T11:00:00.000Z"
+    }
+  ]
+}
