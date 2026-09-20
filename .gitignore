@@ -1,0 +1,63 @@
+# ===================================================
+# Dependencies
+# ===================================================
+node_modules/
+*/node_modules/
+frontend/node_modules/
+server/node_modules/
+
+# ===================================================
+# SENSITIVE DATA & CREDENTIALS (CRITICAL - NEVER COMMIT)
+# ===================================================
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+server/.env
+server/.env.*
+frontend/.env
+frontend/.env.*
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Allow template files only
+!.env.example
+!**/.env.example
+
+# ===================================================
+# Build & Distribution Artifacts
+# ===================================================
+dist/
+dist-ssr/
+build/
+.cache/
+
+
+# ===================================================
+# Logs & Diagnostic Dumps
+# ===================================================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ===================================================
+# OS & IDE Files
+# ===================================================
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.gemini/
